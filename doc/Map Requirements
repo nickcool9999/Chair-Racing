@@ -1,0 +1,17 @@
+Brief requirements are as follows:
+
+1) There is a spawn brick called "spawn" to spawn the players.
+2) There is an open gate called "startingbrick" to let chairs race.
+3) There is a finish line part called "endpart" to let chairs finish the race.
+4) The race lasts at least 20 seconds.
+5) There is no advertising (real or fake) in the race (you will be creditted for the map).
+6) There isn't too many invisible parts barriering players from moving.
+7) (Technically there is a requirement that there is a minimum of 200 parts and max of 2000, but thats only to manage the process of loading maps well. This is pretty much just a guideline.)
+
+The rest is basically your creative vision. Whatever you do with the map will be judged on its quality. I'm not very strict on quality but you should race in some maps to get a feel for what I'm looking for.
+
+Technically speaking you don't need a startingbrick or even an endpart. those are just a requirement mainly because a lot of people don't code their tracks. An alternative for coders would be using the trigger system in chair racing in conjunction with custom hard-coded parts. Calamity Cavern is the first full-fledged track to use triggers with no scripts. Triggers adapt with the game code.
+
+If any of this is confusing to you, make sure to consider getting some experience in coding/building. It's important to be good at developing and/or building to get the most out of first impressions.
+
+I have resigned from developing Chair Racing but I may consider adding maps anyways if they are good. Feel free to still submit them.
